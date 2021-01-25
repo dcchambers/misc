@@ -1,2 +1,3 @@
-# misc
-everything else
+# Everything Else
+
+- [Beer Calendar](/beer/calendar.md)
